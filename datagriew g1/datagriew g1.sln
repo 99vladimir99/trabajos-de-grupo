@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datagriew g1", "datagriew g1\datagriew g1.csproj", "{B39E4FF3-1997-4005-B43B-5CB605909258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39E4FF3-1997-4005-B43B-5CB605909258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39E4FF3-1997-4005-B43B-5CB605909258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39E4FF3-1997-4005-B43B-5CB605909258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39E4FF3-1997-4005-B43B-5CB605909258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A123598-4423-4E15-9F43-70B7D6C11FB4}
+	EndGlobalSection
+EndGlobal

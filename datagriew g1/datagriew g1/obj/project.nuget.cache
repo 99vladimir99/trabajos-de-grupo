@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9AdXC4FkEWHVZAbg9cEpSsPVvNX1mx/Ff4yP/mIytWQ0oZySGyO1zwm78NFrH3BDKfOPq/g//ELebbkOgNYGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vladimir\\source\\repos\\datagriew g1\\datagriew g1\\datagriew g1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladimir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

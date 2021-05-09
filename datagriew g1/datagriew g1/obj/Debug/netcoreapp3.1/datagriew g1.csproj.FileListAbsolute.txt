@@ -1,0 +1,15 @@
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\bin\Debug\netcoreapp3.1\datagriew g1.exe
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\bin\Debug\netcoreapp3.1\datagriew g1.deps.json
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\bin\Debug\netcoreapp3.1\datagriew g1.runtimeconfig.json
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\bin\Debug\netcoreapp3.1\datagriew g1.runtimeconfig.dev.json
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\bin\Debug\netcoreapp3.1\datagriew g1.dll
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\bin\Debug\netcoreapp3.1\datagriew g1.pdb
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew_g1.Form1.resources
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.dll
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.pdb
+C:\Users\Vladimir\source\repos\datagriew g1\datagriew g1\obj\Debug\netcoreapp3.1\datagriew g1.genruntimeconfig.cache
