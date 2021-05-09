@@ -1,0 +1,13 @@
+C:\Users\Vladimir\source\repos\grupo2\grupo2\bin\Debug\netcoreapp3.1\grupo2.exe
+C:\Users\Vladimir\source\repos\grupo2\grupo2\bin\Debug\netcoreapp3.1\grupo2.deps.json
+C:\Users\Vladimir\source\repos\grupo2\grupo2\bin\Debug\netcoreapp3.1\grupo2.runtimeconfig.json
+C:\Users\Vladimir\source\repos\grupo2\grupo2\bin\Debug\netcoreapp3.1\grupo2.runtimeconfig.dev.json
+C:\Users\Vladimir\source\repos\grupo2\grupo2\bin\Debug\netcoreapp3.1\grupo2.dll
+C:\Users\Vladimir\source\repos\grupo2\grupo2\bin\Debug\netcoreapp3.1\grupo2.pdb
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.dll
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.pdb
+C:\Users\Vladimir\source\repos\grupo2\grupo2\obj\Debug\netcoreapp3.1\grupo2.genruntimeconfig.cache
